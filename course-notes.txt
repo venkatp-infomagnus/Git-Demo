@@ -1,1 +1,2 @@
 Chapter 1: What is Git?
+Chapter 2: Branching Basics

@@ -120,7 +120,7 @@ git merge demo/feature-notes -m "Merge: combine notebook with course notes"
 
 echo ""
 echo -e "${GREEN}✅ Merge complete!${NC}"
-
+pause
 # =============================================================================
 #  STEP 6 — AFTER the merge — look at the result
 # =============================================================================

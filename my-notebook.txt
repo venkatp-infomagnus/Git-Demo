@@ -1,0 +1,2 @@
+Note: Git is awesome!
+Note: Always commit early & often
